@@ -1,2 +1,0 @@
-# multivendor
-multivendor backend devs
